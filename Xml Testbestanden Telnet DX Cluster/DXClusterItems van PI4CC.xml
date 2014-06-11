@@ -1,0 +1,465 @@
+<DXClusterItems>
+  <DXClusterItemList>
+    <DXClusterItem>
+      <DXCallSign>VR2XMT</DXCallSign>
+      <Frequency>14255.0</Frequency>
+      <UTC>2014-06-06T13:58:00</UTC>
+      <UTCstr>1:58 PM</UTCstr>
+      <Spotter>N7WS</Spotter>
+      <Comments>CHARLIE BOOMING IN AZ</Comments>
+      <RawString>N7WS:      14255.0  VR2XMT       CHARLIE BOOMING IN AZ          1358Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>VE2WU</DXCallSign>
+      <Frequency>14020.0</Frequency>
+      <UTC>2014-06-06T13:58:00</UTC>
+      <UTCstr>1:58 PM</UTCstr>
+      <Spotter>SP5KP</Spotter>
+      <Comments>CQ...</Comments>
+      <RawString>SP5KP:     14020.0  VE2WU        CQ...                          1358Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>W1AW/5</DXCallSign>
+      <Frequency>14086.5</Frequency>
+      <UTC>2014-06-06T13:53:00</UTC>
+      <UTCstr>1:53 PM</UTCstr>
+      <Spotter>KG1V</Spotter>
+      <Comments>RTTY</Comments>
+      <RawString>KG1V:      14086.5  W1AW/5       RTTY                           1353Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70BMC</DXCallSign>
+      <Frequency>14052.0</Frequency>
+      <UTC>2014-06-06T13:52:00</UTC>
+      <UTCstr>1:52 PM</UTCstr>
+      <Spotter>PA4T</Spotter>
+      <Comments>
+      </Comments>
+      <RawString>PA4T:      14052.0  TM70BMC                                     1352Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>DU2US</DXCallSign>
+      <Frequency>14277.0</Frequency>
+      <UTC>2014-06-06T13:52:00</UTC>
+      <UTCstr>1:52 PM</UTCstr>
+      <Spotter>K8NHR</Spotter>
+      <Comments>GOOD SIG IN OH</Comments>
+      <RawString>K8NHR:     14277.0  DU2US        GOOD SIG IN OH                 1352Z EN81</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>UP44WFF</DXCallSign>
+      <Frequency>14144.5</Frequency>
+      <UTC>2014-06-06T13:48:00</UTC>
+      <UTCstr>1:48 PM</UTCstr>
+      <Spotter>UN6LN</Spotter>
+      <Comments>UNFF-033</Comments>
+      <RawString>UN6LN:     14144.5  UP44WFF      UNFF-033                       1348Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70BBC</DXCallSign>
+      <Frequency>14011.0</Frequency>
+      <UTC>2014-06-06T13:47:00</UTC>
+      <UTCstr>1:47 PM</UTCstr>
+      <Spotter>II1II</Spotter>
+      <Comments>SWL</Comments>
+      <RawString>II1II:     14011.0  TM70BBC      SWL                            1347Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70BBC</DXCallSign>
+      <Frequency>14011.0</Frequency>
+      <UTC>2014-06-06T13:44:00</UTC>
+      <UTCstr>1:44 PM</UTCstr>
+      <Spotter>F5RAB</Spotter>
+      <Comments>
+      </Comments>
+      <RawString>F5RAB:     14011.0  TM70BBC                                     1344Z JN08</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>UA3ECD</DXCallSign>
+      <Frequency>14167.0</Frequency>
+      <UTC>2014-06-06T13:42:00</UTC>
+      <UTCstr>1:42 PM</UTCstr>
+      <Spotter>RV0APH</Spotter>
+      <Comments>TNX QSO</Comments>
+      <RawString>RV0APH:    14167.0  UA3ECD       TNX QSO                        1342Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70UTAH</DXCallSign>
+      <Frequency>14023.0</Frequency>
+      <UTC>2014-06-06T13:40:00</UTC>
+      <UTCstr>1:40 PM</UTCstr>
+      <Spotter>GM4GIF</Spotter>
+      <Comments>
+      </Comments>
+      <RawString>GM4GIF:    14023.0  TM70UTAH                                    1340Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>DU2US</DXCallSign>
+      <Frequency>14277.0</Frequency>
+      <UTC>2014-06-06T13:35:00</UTC>
+      <UTCstr>1:35 PM</UTCstr>
+      <Spotter>KG8V</Spotter>
+      <Comments>
+      </Comments>
+      <RawString>KG8V:      14277.0  DU2US                                       1335Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>SP2RIQ/P</DXCallSign>
+      <Frequency>14249.0</Frequency>
+      <UTC>2014-06-06T13:36:00</UTC>
+      <UTCstr>1:36 PM</UTCstr>
+      <Spotter>R7GA</Spotter>
+      <Comments>WFF SPFF-058 73! 44!</Comments>
+      <RawString>R7GA:      14249.0  SP2RIQ/P     WFF SPFF-058 73! 44!           1336Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>UP44WFF</DXCallSign>
+      <Frequency>14144.5</Frequency>
+      <UTC>2014-06-06T13:35:00</UTC>
+      <UTCstr>1:35 PM</UTCstr>
+      <Spotter>SP6KEP</Spotter>
+      <Comments>UNFF-033 DZIEKI ARTUR 44</Comments>
+      <RawString>SP6KEP:    14144.5  UP44WFF      UNFF-033 DZIEKI ARTUR 44       1335Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>UP44WFF</DXCallSign>
+      <Frequency>14144.5</Frequency>
+      <UTC>2014-06-06T13:35:00</UTC>
+      <UTCstr>1:35 PM</UTCstr>
+      <Spotter>RV0APH</Spotter>
+      <Comments>TNX QSO</Comments>
+      <RawString>RV0APH:    14144.5  UP44WFF      TNX QSO                        1335Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TEST</DXCallSign>
+      <Frequency>14000.0</Frequency>
+      <UTC>2014-06-06T13:34:00</UTC>
+      <UTCstr>1:34 PM</UTCstr>
+      <Spotter>G1TDN</Spotter>
+      <Comments>ONLY</Comments>
+      <RawString>G1TDN:     14000.0  TEST         ONLY                           1334Z IO93</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70BBC</DXCallSign>
+      <Frequency>14011.0</Frequency>
+      <UTC>2014-06-06T13:34:00</UTC>
+      <UTCstr>1:34 PM</UTCstr>
+      <Spotter>OO2O</Spotter>
+      <Comments>59 TNX NICE OP. CW</Comments>
+      <RawString>OO2O:      14011.0  TM70BBC      59 TNX NICE OP. CW             1334Z JO10</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70BBC</DXCallSign>
+      <Frequency>14011.0</Frequency>
+      <UTC>2014-06-06T13:33:00</UTC>
+      <UTCstr>1:33 PM</UTCstr>
+      <Spotter>GM4GIF</Spotter>
+      <Comments>
+      </Comments>
+      <RawString>GM4GIF:    14011.0  TM70BBC                                     1333Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>UP44WFF</DXCallSign>
+      <Frequency>14144.5</Frequency>
+      <UTC>2014-06-06T13:32:00</UTC>
+      <UTCstr>1:32 PM</UTCstr>
+      <Spotter>R7GA</Spotter>
+      <Comments>WFF UNFF-033 73! 44!</Comments>
+      <RawString>R7GA:      14144.5  UP44WFF      WFF UNFF-033 73! 44!           1332Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>SP2RIQ/P</DXCallSign>
+      <Frequency>14249.0</Frequency>
+      <UTC>2014-06-06T13:25:00</UTC>
+      <UTCstr>1:25 PM</UTCstr>
+      <Spotter>DL9JM</Spotter>
+      <Comments>TNX;5+9/73</Comments>
+      <RawString>DL9JM:     14249.0  SP2RIQ/P     TNX;5+9/73                     1325Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>UP44WFF</DXCallSign>
+      <Frequency>14144.5</Frequency>
+      <UTC>2014-06-06T13:24:00</UTC>
+      <UTCstr>1:24 PM</UTCstr>
+      <Spotter>SV3ICL</Spotter>
+      <Comments>73</Comments>
+      <RawString>SV3ICL:    14144.5  UP44WFF      73                             1324Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>SP52RIQ/P</DXCallSign>
+      <Frequency>14249.0</Frequency>
+      <UTC>2014-06-06T13:24:00</UTC>
+      <UTCstr>1:24 PM</UTCstr>
+      <Spotter>DL9JM</Spotter>
+      <Comments>TNX;5+9/73</Comments>
+      <RawString>DL9JM:     14249.0  SP52RIQ/P    TNX;5+9/73                     1324Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>IZ5GST/P</DXCallSign>
+      <Frequency>14307.0</Frequency>
+      <UTC>2014-06-06T13:23:00</UTC>
+      <UTCstr>1:23 PM</UTCstr>
+      <Spotter>IW0EYT</Spotter>
+      <Comments>40 MT PSE</Comments>
+      <RawString>IW0EYT:    14307.0  IZ5GST/P     40 MT PSE                      1323Z JN61</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>SP2RIQ/P</DXCallSign>
+      <Frequency>14249.0</Frequency>
+      <UTC>2014-06-06T13:23:00</UTC>
+      <UTCstr>1:23 PM</UTCstr>
+      <Spotter>DL0IR</Spotter>
+      <Comments>WWFF: SPFF-058, TNX QSO, 73&amp;amp;44</Comments>
+      <RawString>DL0IR:     14249.0  SP2RIQ/P     WWFF: SPFF-058, TNX QSO, 73&amp;amp;44 1323Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>IZ5GST/P</DXCallSign>
+      <Frequency>14307.0</Frequency>
+      <UTC>2014-06-06T13:22:00</UTC>
+      <UTCstr>1:22 PM</UTCstr>
+      <Spotter>IK5VLR</Spotter>
+      <Comments>LAST2&amp;#39; DCI-GR14 WCA4718 TC958</Comments>
+      <RawString>IK5VLR:    14307.0  IZ5GST/P     LAST2&amp;#39; DCI-GR14 WCA4718 TC958  1322Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>CT2FPY</DXCallSign>
+      <Frequency>14071.6</Frequency>
+      <UTC>2014-06-06T13:21:00</UTC>
+      <UTCstr>1:21 PM</UTCstr>
+      <Spotter>2E0CWB</Spotter>
+      <Comments>PSK31</Comments>
+      <RawString>2E0CWB:    14071.6  CT2FPY       PSK31                          1321Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>SP9YFF/7</DXCallSign>
+      <Frequency>14244.0</Frequency>
+      <UTC>2014-06-06T13:20:00</UTC>
+      <UTCstr>1:20 PM</UTCstr>
+      <Spotter>R7GA</Spotter>
+      <Comments>WFF SPFF-869 73! 44!</Comments>
+      <RawString>R7GA:      14244.0  SP9YFF/7     WFF SPFF-869 73! 44!           1320Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70BBC</DXCallSign>
+      <Frequency>14011.0</Frequency>
+      <UTC>2014-06-06T13:19:00</UTC>
+      <UTCstr>1:19 PM</UTCstr>
+      <Spotter>HA6VH</Spotter>
+      <Comments>
+      </Comments>
+      <RawString>HA6VH:     14011.0  TM70BBC                                     1319Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>5R8UI</DXCallSign>
+      <Frequency>14190.0</Frequency>
+      <UTC>2014-06-06T13:19:00</UTC>
+      <UTCstr>1:19 PM</UTCstr>
+      <Spotter>I5ELQ</Spotter>
+      <Comments>QSY HERE</Comments>
+      <RawString>I5ELQ:     14190.0  5R8UI        QSY HERE                       1319Z JN53</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>VC3JUNO</DXCallSign>
+      <Frequency>14006.9</Frequency>
+      <UTC>2014-06-06T13:18:00</UTC>
+      <UTCstr>1:18 PM</UTCstr>
+      <Spotter>N8II</Spotter>
+      <Comments>DDAY COMM</Comments>
+      <RawString>N8II:      14006.9  VC3JUNO      DDAY COMM                      1318Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>IZ5GST/P</DXCallSign>
+      <Frequency>14307.0</Frequency>
+      <UTC>2014-06-06T13:18:00</UTC>
+      <UTCstr>1:18 PM</UTCstr>
+      <Spotter>R7GA</Spotter>
+      <Comments>WFF IFF-661 73! 44!</Comments>
+      <RawString>R7GA:      14307.0  IZ5GST/P     WFF IFF-661 73! 44!            1318Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>SP9FF/7</DXCallSign>
+      <Frequency>14244.0</Frequency>
+      <UTC>2014-06-06T13:12:00</UTC>
+      <UTCstr>1:12 PM</UTCstr>
+      <Spotter>PA1H</Spotter>
+      <Comments>SPFF-869</Comments>
+      <RawString>PA1H:      14244.0  SP9FF/7      SPFF-869                       1312Z JO32</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70BBC</DXCallSign>
+      <Frequency>14011.0</Frequency>
+      <UTC>2014-06-06T13:10:00</UTC>
+      <UTCstr>1:10 PM</UTCstr>
+      <Spotter>IK8TEO</Spotter>
+      <Comments>
+      </Comments>
+      <RawString>IK8TEO:    14011.0  TM70BBC                                     1310Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70BBC</DXCallSign>
+      <Frequency>14011.0</Frequency>
+      <UTC>2014-06-06T13:10:00</UTC>
+      <UTCstr>1:10 PM</UTCstr>
+      <Spotter>R4WF</Spotter>
+      <Comments>
+      </Comments>
+      <RawString>R4WF:      14011.0  TM70BBC                                     1310Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70BBC</DXCallSign>
+      <Frequency>14011.0</Frequency>
+      <UTC>2014-06-06T13:09:00</UTC>
+      <UTCstr>1:09 PM</UTCstr>
+      <Spotter>DK3HM</Spotter>
+      <Comments>TNX</Comments>
+      <RawString>DK3HM:     14011.0  TM70BBC      TNX                            1309Z JO40</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>IZ5GST/P</DXCallSign>
+      <Frequency>14307.0</Frequency>
+      <UTC>2014-06-06T13:08:00</UTC>
+      <UTCstr>1:08 PM</UTCstr>
+      <Spotter>IK5VLR</Spotter>
+      <Comments>IFF-661 DCI-GR14 WCA4718 TC958</Comments>
+      <RawString>IK5VLR:    14307.0  IZ5GST/P     IFF-661 DCI-GR14 WCA4718 TC958 1308Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>SM5CNQ/P</DXCallSign>
+      <Frequency>14045.1</Frequency>
+      <UTC>2014-06-06T13:04:00</UTC>
+      <UTCstr>1:04 PM</UTCstr>
+      <Spotter>K4WMS</Spotter>
+      <Comments>
+      </Comments>
+      <RawString>K4WMS:     14045.1  SM5CNQ/P                                    1304Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>UP44WFF</DXCallSign>
+      <Frequency>14144.5</Frequency>
+      <UTC>2014-06-06T13:02:00</UTC>
+      <UTCstr>1:02 PM</UTCstr>
+      <Spotter>UN9LN</Spotter>
+      <Comments>UNFF-033</Comments>
+      <RawString>UN9LN:     14144.5  UP44WFF      UNFF-033                       1302Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70UTAH</DXCallSign>
+      <Frequency>14022.6</Frequency>
+      <UTC>2014-06-06T13:01:00</UTC>
+      <UTCstr>1:01 PM</UTCstr>
+      <Spotter>YU7RQ</Spotter>
+      <Comments>
+      </Comments>
+      <RawString>YU7RQ:     14022.6  TM70UTAH                                    1301Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70BMC</DXCallSign>
+      <Frequency>14144.5</Frequency>
+      <UTC>2014-06-06T13:01:00</UTC>
+      <UTCstr>1:01 PM</UTCstr>
+      <Spotter>S51ZZ</Spotter>
+      <Comments>
+      </Comments>
+      <RawString>S51ZZ:     14144.5  TM70BMC                                     1301Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>IZ5GST/P</DXCallSign>
+      <Frequency>14307.0</Frequency>
+      <UTC>2014-06-06T12:59:00</UTC>
+      <UTCstr>12:59 PM</UTCstr>
+      <Spotter>IT9DVZ</Spotter>
+      <Comments>IFF-661 DCI-GR14 WCA4718 TC-05</Comments>
+      <RawString>IT9DVZ:    14307.0  IZ5GST/P     IFF-661 DCI-GR14 WCA4718 TC-05 1259Z JM78</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>IZ5GST/P</DXCallSign>
+      <Frequency>14307.0</Frequency>
+      <UTC>2014-06-06T12:56:00</UTC>
+      <UTCstr>12:56 PM</UTCstr>
+      <Spotter>I5FLN</Spotter>
+      <Comments>IFF-661 GR014 TC0958 I-04718</Comments>
+      <RawString>I5FLN:     14307.0  IZ5GST/P     IFF-661 GR014 TC0958 I-04718   1256Z JN54</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>DU2US</DXCallSign>
+      <Frequency>14277.0</Frequency>
+      <UTC>2014-06-06T12:51:00</UTC>
+      <UTCstr>12:51 PM</UTCstr>
+      <Spotter>KL2YV</Spotter>
+      <Comments>5/9 IN ALASKA</Comments>
+      <RawString>KL2YV:     14277.0  DU2US        5/9 IN ALASKA                  1251Z BP51</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>F4HAU/P</DXCallSign>
+      <Frequency>14260.0</Frequency>
+      <UTC>2014-06-06T12:49:00</UTC>
+      <UTCstr>12:49 PM</UTCstr>
+      <Spotter>EA3NT</Spotter>
+      <Comments>SEIN ISL. EU-068 AT-007</Comments>
+      <RawString>EA3NT:     14260.0  F4HAU/P      SEIN ISL. EU-068 AT-007        1249Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>OH6FSO</DXCallSign>
+      <Frequency>14103.0</Frequency>
+      <UTC>2014-06-06T12:51:00</UTC>
+      <UTCstr>12:51 PM</UTCstr>
+      <Spotter>R3ZL</Spotter>
+      <Comments>TNX QSO</Comments>
+      <RawString>R3ZL:      14103.0  OH6FSO       TNX QSO                        1251Z</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70DD</DXCallSign>
+      <Frequency>14268.0</Frequency>
+      <UTC>2014-06-06T12:50:00</UTC>
+      <UTCstr>12:50 PM</UTCstr>
+      <Spotter>LZ2NP</Spotter>
+      <Comments>TNX</Comments>
+      <RawString>LZ2NP:     14268.0  TM70DD       TNX                            1250Z KN23</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>SP2RIQ/P</DXCallSign>
+      <Frequency>14249.0</Frequency>
+      <UTC>2014-06-06T12:49:00</UTC>
+      <UTCstr>12:49 PM</UTCstr>
+      <Spotter>IT9DVZ</Spotter>
+      <Comments>TNX SPFF-058</Comments>
+      <RawString>IT9DVZ:    14249.0  SP2RIQ/P     TNX SPFF-058                   1249Z JM78</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>UP44WFF</DXCallSign>
+      <Frequency>14144.5</Frequency>
+      <UTC>2014-06-06T12:49:00</UTC>
+      <UTCstr>12:49 PM</UTCstr>
+      <Spotter>I5FLN</Spotter>
+      <Comments>UNFF-033</Comments>
+      <RawString>I5FLN:     14144.5  UP44WFF      UNFF-033                       1249Z JN54</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>YP44WF</DXCallSign>
+      <Frequency>14144.5</Frequency>
+      <UTC>2014-06-06T12:48:00</UTC>
+      <UTCstr>12:48 PM</UTCstr>
+      <Spotter>I5FLN</Spotter>
+      <Comments>UNFF-033</Comments>
+      <RawString>I5FLN:     14144.5  YP44WF       UNFF-033                       1248Z JN54</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>TM70DD</DXCallSign>
+      <Frequency>14268.0</Frequency>
+      <UTC>2014-06-06T12:47:00</UTC>
+      <UTCstr>12:47 PM</UTCstr>
+      <Spotter>OO2O</Spotter>
+      <Comments>59 TNX SPECIAL CALL D-DAY</Comments>
+      <RawString>OO2O:      14268.0  TM70DD       59 TNX SPECIAL CALL D-DAY      1247Z JO10</RawString>
+    </DXClusterItem>
+    <DXClusterItem>
+      <DXCallSign>IN3FCR</DXCallSign>
+      <Frequency>14220.2</Frequency>
+      <UTC>2014-06-06T12:46:00</UTC>
+      <UTCstr>12:46 PM</UTCstr>
+      <Spotter>IN3FCR</Spotter>
+      <Comments>CQCQCQ DD</Comments>
+      <RawString>IN3FCR:    14220.2  IN3FCR       CQCQCQ DD                      1246Z JN56II1II DE PI4CC  6-JUN-2014 1359Z DXSPIDER &amp;gt;</RawString>
+    </DXClusterItem>
+  </DXClusterItemList>
+</DXClusterItems>
